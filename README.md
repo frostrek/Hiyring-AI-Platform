@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/800x200/4B0082/FFFFFF?text=Frostrek+AI+%7C+Smart+Job+Hiring+Platform" alt="Frostrek AI Hiring Platform Banner">
+  <img src="assets/Hiyring1.png" alt="Frostrek AI Hiring Platform Banner">
   
   <br>
   
@@ -51,6 +51,19 @@ A centralized command center to manage active roles, review candidate video subm
 
 ### 📈 Scalable Hiring Pipelines
 An infrastructure robust enough to support anywhere from 10 to 10,000+ candidates simultaneously, handling massive applicant volume without degrading performance.
+
+---
+
+## 📸 Product Gallery
+
+Explore the Hiyring AI Platform interface and candidate workflows:
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="assets/Hiyring2.png" width="48%" alt="Hiyring Product View 1">
+  <img src="assets/Hiyring3.png" width="48%" alt="Hiyring Product View 2">
+  <img src="assets/Hiyring4.png" width="48%" alt="Hiyring Product View 3">
+  <img src="assets/Hiyring5.png" width="48%" alt="Hiyring Product View 4">
+</div>
 
 ---
 
