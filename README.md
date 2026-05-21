@@ -3,7 +3,7 @@
   
   <br>
   
-  <h1>🤖 Smart Job Hiring Platform</h1>
+  <h1> Smart Job Hiring Platform</h1>
   <p><b>Showcase Project: Hiyring - AI-Powered Video Interviews & Recruitment Workflow</b></p>
   
   <p>
@@ -17,13 +17,13 @@
 
 ---
 
-## 🌟 Project Overview
+##  Project Overview
 
 **Hiyring** is a full-stack AI hiring platform engineered end-to-end by Frostrek. It is designed to help recruitment teams screen candidates exponentially faster using intelligent video interviews, structured evaluations, and highly scalable workflows. 
 
 ---
 
-## ⚠️ The Problem We Solved
+##  The Problem We Solved
 
 Growing organizations struggle to maintain quality while scaling their hiring efforts. We built this platform to resolve three critical bottlenecks:
 
@@ -33,28 +33,28 @@ Growing organizations struggle to maintain quality while scaling their hiring ef
 
 ---
 
-## 🏗️ What We Built (Core Features)
+##  What We Built (Core Features)
 
 We built an intelligent, automated layer between application and final interview, ensuring only the most qualified candidates reach human recruiters.
 
-### 🎥 AI Video Interviews
+###  AI Video Interviews
 Candidates record responses to structured, asynchronous video questions. The built-in AI engine evaluates tone, clarity, and content contextually.
 
-### 📊 Structured Evaluation Engine
+###  Structured Evaluation Engine
 Standardized scoring rubrics ensure every single candidate is assessed objectively and on the exact same criteria, eliminating subjective scoring.
 
-### ⚖️ Bias Reduction
+###  Bias Reduction
 The AI engine actively anonymizes candidate evaluations to ensure fair, objective assessments across the entire applicant pool regardless of background.
 
-### 🎛️ Recruiter Dashboard
+###  Recruiter Dashboard
 A centralized command center to manage active roles, review candidate video submissions, compare AI scores, and move shortlists forward seamlessly.
 
-### 📈 Scalable Hiring Pipelines
+###  Scalable Hiring Pipelines
 An infrastructure robust enough to support anywhere from 10 to 10,000+ candidates simultaneously, handling massive applicant volume without degrading performance.
 
 ---
 
-## 📸 Product Gallery
+##  Product Gallery
 
 Explore the Hiyring AI Platform interface and candidate workflows:
 
@@ -67,14 +67,14 @@ Explore the Hiyring AI Platform interface and candidate workflows:
 
 ---
 
-## 🚀 Live Product
+##  Live Product
 
 Check out the live product built by Frostrek:  
-👉 **[hiyring.com](https://hiyring.com)**
+ **[hiyring.com](https://hiyring.com)**
 
 ---
 
-## 🛠️ Tech Stack & Infrastructure
+##  Tech Stack & Infrastructure
 
 The Hiyring platform relies on a modern, AI-integrated stack to ensure fast video processing and reliable AI evaluations:
 
