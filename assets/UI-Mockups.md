@@ -1,4 +1,4 @@
-# 🖥️ UI Mockups & Design System
+# UI Mockups & Design System
 
 <div align="center">
   <p><b>Visual Architecture for the Hiyring Platform</b></p>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎨 Candidate Portal Mockup Structure
+## Candidate Portal Mockup Structure
 
 The Candidate Portal is designed to minimize anxiety and maximize focus during asynchronous video interviews.
 
@@ -19,7 +19,7 @@ The Candidate Portal is designed to minimize anxiety and maximize focus during a
 
 *Assets related to this view:* `Hiyring2.png`, `Hiyring3.png`
 
-## 📊 Recruiter Dashboard Mockup Structure
+## Recruiter Dashboard Mockup Structure
 
 The Recruiter Dashboard is a high-density, data-rich interface for pipeline management and candidate evaluation.
 

@@ -1,4 +1,4 @@
-# 📚 Technical & AI Documentation
+# Technical & AI Documentation
 
 This directory houses the technical blueprints and integration guides for the AI Hiring Platform.
 

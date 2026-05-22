@@ -1,4 +1,4 @@
-# 🎥 Video Processing & Streaming Pipeline Architecture
+# Video Processing & Streaming Pipeline Architecture
 
 <div align="center">
   <p><b>Hiyring AI Platform - Core Infrastructure Documentation</b></p>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The Hiyring AI Video Processing Pipeline is designed for **high-volume concurrent video uploads**, ensuring uninterrupted recording for candidates, resilient storage, and low-latency playback for recruiters. 
 
@@ -17,7 +17,7 @@ We utilize a robust stack centered around **Node.js, AWS S3, AWS CloudFront, and
 
 ---
 
-## 🌊 Pipeline Workflow
+## Pipeline Workflow
 
 ```mermaid
 graph TD
@@ -45,7 +45,7 @@ graph TD
 
 ---
 
-## ⚙️ Core Components
+## Core Components
 
 ### 1. Chunked Video Ingestion
 Videos are recorded asynchronously in the browser and sent as `video/webm` streams. 
@@ -76,7 +76,7 @@ Raw S3 URLs are **never** exposed to the frontend.
 
 ---
 
-## 🔒 Security Posture
+## Security Posture
 
 | Component | Security Mechanism |
 | :--- | :--- |

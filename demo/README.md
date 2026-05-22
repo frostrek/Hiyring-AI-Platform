@@ -1,4 +1,4 @@
-# 🎥 AI Hiring Demos
+# AI Hiring Demos
 
 This directory contains visual demonstrations and walkthroughs for our Smart Job Hiring Platform (Hiyring).
 

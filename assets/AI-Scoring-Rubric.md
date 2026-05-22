@@ -1,4 +1,4 @@
-# 📈 AI Scoring Rubric & Logic
+# AI Scoring Rubric & Logic
 
 <div align="center">
   <p><b>Hiyring Answer Evaluation Framework</b></p>
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Core Evaluation Dimensions
+## Core Evaluation Dimensions
 
 The AI Answer Evaluator strictly scores candidates across six primary dimensions. Each dimension is normalized to a 10-point scale.
 
@@ -19,7 +19,7 @@ The AI Answer Evaluator strictly scores candidates across six primary dimensions
 
 ---
 
-## 📏 Length Constraints & Scaling
+## Length Constraints & Scaling
 
 Scores are heavily gated by word count to prevent hallucinated evaluations on short answers:
 - **< 10 words:** Cap all scores at 0-1. No substance verified.
@@ -31,7 +31,7 @@ Scores are heavily gated by word count to prevent hallucinated evaluations on sh
 
 ---
 
-## 🛡️ Authenticity & Plagiarism Penalties
+## Authenticity & Plagiarism Penalties
 
 The system actively detects non-spontaneous, AI-generated, or heavily scripted answers.
 

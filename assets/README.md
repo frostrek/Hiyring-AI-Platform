@@ -1,4 +1,4 @@
-# 🖼️ Platform Assets
+# Platform Assets
 
 This directory contains static assets related to Hiyring, including:
 
