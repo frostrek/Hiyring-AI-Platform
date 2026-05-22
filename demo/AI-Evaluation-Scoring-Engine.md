@@ -12,19 +12,19 @@ The Hiyring AI engine utilizes a robust `LangChain` architecture, primarily driv
 
 ### The 4 AI Agents
 
-1. ** Resume Parser:** 
+1. **Resume Parser:** 
    - An elite intelligence engine that extracts structured data from ANY resume format.
    - Normalizes text, matches against job requirements, and calculates an initial ATS match score.
    
-2. ** AI Interviewer:** 
+2. **AI Interviewer:** 
    - Uses the parsed resume and job description to formulate dynamic, targeted questions.
    
-3. ** Answer Evaluator:** 
+3. **Answer Evaluator:** 
    - Analyzes transcribed candidate answers against the required skills.
    - Evaluates on 6 dimensions: *Relevance, Depth, Clarity, Communication, Problem Solving, and Practical Experience*.
    - Includes a strict **Authenticity/Plagiarism Detection** module that penalizes scripted, AI-generated, or copied answers based on word repetition, sentence length, and AI-phrase density.
 
-4. ** Summary Generator:** 
+4. **Summary Generator:** 
    - Aggregates the dimensional scores and evaluator notes into a concise, actionable summary for the recruiter.
 
 ### Bias Reduction
